@@ -96,7 +96,7 @@ All the features of version V1, plus:
 - Project leader can define new kinds of artifacts
 - Traceability links can be refined to more than just "father/son"
 
-== Illustrations of existing application
+== Illustrations from an existing application
 
 A dataset example is available:
 
@@ -151,7 +151,7 @@ release:: build, automated testing, deploy (more details link:https://github.com
 ====
 
 :numbered!:
-== Usefull links
+== Useful links
 
 - The materials for the course: http://bit.ly/innopolis-map
 - The inspiring project: {dronology}
