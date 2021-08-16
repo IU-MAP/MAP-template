@@ -2,9 +2,9 @@
 //  Created by Jean-Michel Bruel on 2021-03.
 //  Copyright (c) 2021 IRIT/U. Toulouse. All rights reserved.
 // ------------------------------------------
-= Innopolis University MAP-S21 Project
+= Innopolis University MAP Project
 Jean-Michel Bruel <jbruel@gmail.com>
-v2021.1, {localdate}
+v2021.2, {localdate}
 :status: bottom
 :inclusion:
 :experimental:
@@ -52,7 +52,7 @@ Since you have seven weeks to develop this project by applying the Scrum method,
 - No instructions on techno (java is not mandatory)
 =====
 
-== Initial Product Backlog (last update: 2021-03-27)
+== Initial Product Backlog (last update: TBA)
 
 ===  Initial Client Features for V1
 
