@@ -7,10 +7,9 @@ assignees: ''
 
 ---
 
->Choisissez entre Français et Anglais pour décrire l'issue et tenez-vous à une seule langue. 
->N'hésitez pas à adapter le patron des issues en fonction de vos choix. 
+>Adapt it according to your needs... 
 
-**Titre/Title :** En quelques mots, résumez l'objectif de l'US par exemple _Ajout d'un produit dans le panier_.
+**Titre/Title :** In few words, the goal of the US (e.g.,  _Add a product in the shopping cart_.
 
 
 **Description :**
